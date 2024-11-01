@@ -1,0 +1,122 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    
+    color: #333;
+    background-color: #F3E5D7;
+    line-height: 1.4;
+    padding-left:0;
+  }
+
+  .wrapper {
+
+    border-radius: 15px;
+    max-width: 500px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: white;
+ 
+}
+.Recipe-wrapper {
+    background-color: #fff;
+    border-radius: 0px;
+    overflow: hidden;
+  }
+
+  .recipe-img {
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+
+  }
+  
+  .recipe-title {
+    font-size: 2em;
+    color:black;
+    margin-bottom: 20px;
+  }
+
+  .prep-time{
+    color:#7A284E;
+    padding-bottom: 16px;
+
+  }
+
+  .prep-list{
+    padding-left: 28px;
+  }
+  .preparation-time{
+    padding-top: 28px;
+    padding-left: 28px;
+    background: #FFF7FB;
+    margin-top: 32px;
+    padding-bottom: 32px;
+  }
+
+  .recipe-ingredients{
+    margin-top: 32px;
+    padding-bottom: 32px;
+  }
+  .recipe-instructions{
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+
+
+  .Ingredients-list{
+    padding-top: 24px;
+    padding-left: 20px;
+    margin-bottom: 32px;
+  }
+
+  .inst{
+    color: #854632;
+    padding-bottom: 24px;
+  }
+  .Instructions-list{
+    padding-left: 20px;
+    
+  }
+  .Nutrition{
+    margin-top: 32px;
+    /* color: #854632; */
+  }
+  
+.h2-nut{
+    padding-bottom: 24px;
+    color: #854632;
+}
+
+
+
+table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+    font-size: 0.9em;
+  }
+  
+  table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: start;
+  }
+
+  .td-grms{
+    color: #854632;
+    font-weight: bold;
+  }
+
+
+
+  span{
+    font-weight: bold;
+  }
+  
+
+  
+
+  
